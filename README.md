@@ -7,6 +7,6 @@
 * Matplotlib
 ## Итог
 Все получилось, с историческими данными сошлось:
-![Что получилось](https://drive.google.com/file/d/1U73N-FBufDTIXZryGAFQ8nHNFwAyeJxA/view?usp=sharing "Результат")
+![Что получилось](./pics/pic1.png "Результат")
 А вот исторические данные:
-![Исторические данные](https://drive.google.com/file/d/14I-DmXcIWYWgy7EwzQ9Lqtban7xHY3Tk/view?usp=sharing "Исторические данные")
+![Исторические данные](./pics/pic2.png  "Исторические данные")
